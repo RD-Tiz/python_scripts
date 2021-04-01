@@ -1,6 +1,5 @@
 #gioco del tris di gesu crist
 import sys
-import pygame
 
 grid=[
         [1,2,3],
